@@ -18,6 +18,6 @@
 2. Run the script:
 
 ```bash
-chmod +x ec2-netviz.sh
-./ec2-netviz.sh
+chmod +x ec2-netviz-mac.sh
+./ec2-netviz-mac.sh
 
