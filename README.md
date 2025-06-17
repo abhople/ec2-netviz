@@ -158,6 +158,3 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 
 ---
 
-## ✅ License
-
-MIT License (or choose your preferred license)
